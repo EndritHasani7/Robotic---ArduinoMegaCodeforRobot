@@ -1,3 +1,6 @@
+link of the article: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3sz0D9EAAAAJ&citation_for_view=3sz0D9EAAAAJ:u5HHmVD_uO8C 
+
+
 Design and Construction of Mobile Robot for Disposal of Hazardous Materials
 
 Authors: Arbnor Pajaziti, Ensar Topanica, Endrit Hasani, Rigon Kqiku
